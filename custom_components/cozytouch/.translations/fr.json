@@ -1,0 +1,26 @@
+{
+  "config": {
+    "title": "Cozytouch",
+    "step": {
+      "user": {
+        "title": "Connexion \u00e0 Cozytouch",
+        "data": {
+          "username": "Nom d'utilisateur",
+          "password": "Mot de passe"
+        }
+      },
+      "register": {
+          "title": "Cozytouch",
+	        "description":"Enregistrement Cozytouch."
+      }
+    },
+    "error": {
+      "login_inccorect": "Nom d'utilisateur ou mot de passe incorrect.",
+      "linking": "Erreur de connexion inattendue."
+    },
+    "abort": {
+      "unknown": "Erreur inattendue",
+      "cannot_connect": "Impossible de se connecter \u00e0 la passerelle Cozytouch."
+    }
+  }
+}
