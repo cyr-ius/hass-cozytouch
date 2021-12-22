@@ -62,7 +62,7 @@ PRESET_MODE_TO_COZY = {
     PRESET_MANU: "manu",
     PRESET_SECURED: "secured",
     PRESET_SECURED: "secured",
-    PRESET_STOP: "stop",
+    PRESET_STOP: "off",
 }
 
 COZY_TO_PRESET_MODE = {
@@ -74,11 +74,11 @@ COZY_TO_PRESET_MODE = {
     "comfort": PRESET_COMFORT,
     "eco": PRESET_ECO,
     "externalScheduling": PRESET_EXTERNAL,
-    "frostprection": PRESET_FROSTPROTECTION,
+    "frostprotection": PRESET_FROSTPROTECTION,
     "internalScheduling": PRESET_INTERNAL,
     "manu": PRESET_MANU,
     "secured": PRESET_SECURED,
-    "stop": PRESET_STOP,
+    "off": PRESET_STOP,
 }
 
 ATTR_TIME_PERIOD = "time_period"
